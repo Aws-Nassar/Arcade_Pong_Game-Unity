@@ -26,7 +26,7 @@ This is a classic **Pong** game recreated using **Unity**. It’s a two-player a
 
 ## 🎥 YouTube Video:
 Watch the gameplay video on YouTube:  
-[![Pong Game Gameplay](https://img.youtube.com/vi/your-video-id/maxresdefault.jpg)](https://www.youtube.com/watch?v=rgwoEzhaHPQ)
+[![Pong Game Gameplay](https://img.youtube.com/vi/rgwoEzhaHPQ/0.jpg)](https://www.youtube.com/watch?v=rgwoEzhaHPQ)
 
 ## License:
 This project is open-source and available under the [MIT License](LICENSE). Feel free to modify and distribute the game as per the terms of the license.
